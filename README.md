@@ -6,6 +6,8 @@ This README accompanies the analysis conducted for the blog post titled "Powerli
 
 The analysis provides insights into powerlifting performance across different percentiles, using data to highlight trends, achievements, and areas for improvement within the sport. The interactive website further allows users to input their own performance metrics and see how they compare to powerlifters worldwide.
 
+You'll need to clone [http://gitlab.com/openpowerlifting/opl-data](this repo) in this directory to get all the data
+
 ## Data Attribution
 
 This analysis utilizes data from the OpenPowerlifting project. The OpenPowerlifting project is an initiative dedicated to creating a comprehensive and open dataset of powerlifting competitions and results.
